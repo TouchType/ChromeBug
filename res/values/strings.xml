@@ -1,0 +1,12 @@
+<!--
+  ~ Copyright (c) 2009-2012 TouchType Ltd. All Rights Reserved.
+  -->
+
+<resources>
+    <string name="app_name">ChromeBug</string>
+    <string name="button_start">Start</string>
+    <string name="button_change">Change IME</string>
+    <string name="bug_not_exposed">Bug was not exposed this time…</string>
+    <string name="expected_actual" formatted="false">Expected input \'%s\' is different than extracted input \'%s\'</string>
+    <string name="sequence">The sequence that exposed the bug is: \n</string>
+</resources>
